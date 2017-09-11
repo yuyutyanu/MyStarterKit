@@ -1,11 +1,11 @@
 - npm i
-- npm run gulp 
-- npm run watch 
+- gulp 
+- webpack --watch 
 
-## npm run gulp 
+## gulp 
 - scss : public/src/scss/ -> dist/css/
 - pug : public/src/pug -> dist/html/
 - オートリロード
 
-## npm run watch 
+## webpack --watch 
 - es2015 : public/src/js/ -> dist/
